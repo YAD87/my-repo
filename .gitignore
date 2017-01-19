@@ -1,4 +1,2 @@
 test1.log
 logs/*.log
-vendors/*
-!vendors/
